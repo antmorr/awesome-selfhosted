@@ -119,6 +119,7 @@
 - [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
 - [RhodeCode](https://rhodecode.com) `⊘ Proprietary` - On-premise Source Code Management for Mercurial, Git & Subversion. `Python`
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
+- [Linx](https://linx.software) `⊘ Proprietary` - General purpose low-code platform for backends (APIs, integrations, automations). Build for free in the IDE and host locally, on-premise, cloud or hybrid. 
   
 ## Ticketing
 
